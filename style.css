@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    margin-left: 10px;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+
+form {
+    align-items: center;
+    width: ;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 528px;
+    height: 200px;
+    background: #392B6F;
+    color: white;
+    margin-top: 20px;
+  }
+  
+  td, th {
+    border: 1px solid #FFC108;
+    text-align: left;
+    padding: 8px;
+  }
+
+  tr:nth-last-of-type(4) {
+      background: #FFC108;
+      text-align: center;
+      text-transform: uppercase;
+      border: 1px solid #392B6F;
+      color: black;
+  }
